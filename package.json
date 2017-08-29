@@ -1,0 +1,13 @@
+{
+  "name": "yjbPaymentHook",
+  "version": "1.0.0",
+  "description": "ping++ payment webhooks server for yijiabao",
+  "main": "index.js",
+  "repository": "git@github.com:simors/yjbPaymentHook.git",
+  "author": "wanpeng <wanpeng19860919@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "leancloud-storage": "^3.1.1"
+  }
+}
