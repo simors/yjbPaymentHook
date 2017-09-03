@@ -5,14 +5,14 @@ var LC_APP_ID = ""
 var LC_APP_KEY = ""
 var port = 4000
 
-const LC_DEV_APP_ID = 'K5Rltwmfnxd5pYjMsOFFL0kT-gzGzoHsz'
-const LC_DEV_APP_KEY = 'UseC5jvqLT7TIiQWI8nRPmEl'
+const LC_DEV_APP_ID = 'QApBtOkMNfNo0lGaHxKBSWXX-gzGzoHsz'
+const LC_DEV_APP_KEY = 'znR6wk5JzFU0XIkgKxrM3fnH'
 
-const LC_PRE_APP_ID = 'TUVjJ5HHNmopfJeREa4IcB1T-gzGzoHsz'
-const LC_PRE_APP_KEY = 'XYSEQ5K4FYtMp7P8HXT8Vz63'
+const LC_PRE_APP_ID = 'HFRm8OUW9tNj2qxz6LuBExBa-gzGzoHsz'
+const LC_PRE_APP_KEY = 'E9kbn52mW5NL8u15c7Xywf2B'
 
-const LC_PRO_APP_ID = 'pHIMCdWo3VQX09TKFuU9AGdd-gzGzoHsz'
-const LC_PRO_APP_KEY = 'qhIzQiFonde2yeaBdlcXHUDz'
+const LC_PRO_APP_ID = ''
+const LC_PRO_APP_KEY = ''
 
 if(env === 'dev') {
   LC_APP_ID = LC_DEV_APP_ID
