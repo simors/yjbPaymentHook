@@ -8,8 +8,8 @@ var port = 4000
 const LC_DEV_APP_ID = 'QApBtOkMNfNo0lGaHxKBSWXX-gzGzoHsz'
 const LC_DEV_APP_KEY = 'znR6wk5JzFU0XIkgKxrM3fnH'
 
-const LC_PRE_APP_ID = 'HFRm8OUW9tNj2qxz6LuBExBa-gzGzoHsz'
-const LC_PRE_APP_KEY = 'E9kbn52mW5NL8u15c7Xywf2B'
+const LC_PRE_APP_ID = 'O0Ej6uEsWydjHvsM9RTklWb5-gzGzoHsz'
+const LC_PRE_APP_KEY = 'I3A5zWogoDXc4a8J7Cglg2dB'
 
 const LC_PRO_APP_ID = ''
 const LC_PRO_APP_KEY = ''
